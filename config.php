@@ -5,9 +5,9 @@
     'driver' => 'mysql',
     'host' => 'localhost',
     'port' => 3306,
-    'database' => 'test',
+    'database' => 'oyina_forum',
     'username' => 'root',
-    'password' => '',
+    'password' => 'root',
     'charset' => 'utf8mb4',
     'collation' => 'utf8mb4_unicode_ci',
     'prefix' => '',
@@ -15,7 +15,7 @@
     'engine' => NULL,
     'prefix_indexes' => true,
   ),
-  'url' => 'http://flar.rr',
+  'url' => 'http://forum.teampro.uz',
   'paths' => 
   array (
     'api' => 'api',

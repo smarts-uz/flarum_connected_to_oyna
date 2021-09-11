@@ -1,1 +1,4 @@
 vendor
+/storage/less
+/storage/logs
+/storage/sessions
